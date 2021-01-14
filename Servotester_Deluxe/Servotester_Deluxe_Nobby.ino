@@ -1,5 +1,5 @@
 /*
-   Servotester Deluxe
+   Servotester
    Nobby (Der RC-Modelbauer)
  
  ESP32 + Encoder + OLED
